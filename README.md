@@ -7,6 +7,12 @@ The objective of this project is to analyze retail sales data to identify high-p
 This project uses a supermarket sales dataset containing transaction-level transaction data including product categories, customer segments, quantities sold, revenue values, and purchase dates.  
 The dataset contains 1,000 transaction records across multiple branches and customer types.
 
+### Data Import Validation
+
+Below shows successful validation of data import into PostgreSQL (1000 rows loaded):
+
+![Row Count Validation](screenshots/row_count_validation.png)
+
 ## 🔍 Key Insights
 
 ### 1️⃣ Top Revenue-Generating Product Line
