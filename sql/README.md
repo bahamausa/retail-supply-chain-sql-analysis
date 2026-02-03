@@ -7,7 +7,6 @@ Files included:
 - analysis_queries.sql → Business analysis queries
 
 These scripts demonstrate the use of:
-- JOINs
 - GROUP BY
 - Aggregations
 - Filtering
