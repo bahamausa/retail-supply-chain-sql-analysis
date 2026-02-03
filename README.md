@@ -41,3 +41,26 @@ Food and Beverage products should receive higher inventory allocation and more f
 Since Member customers generate higher revenue, targeted promotions such as exclusive discounts and loyalty rewards should be expanded to increase customer retention and repeat purchases.
 ### 3️⃣ Improve Demand Forecasting Strategy
 Sales patterns across product lines and customer segments should be incorporated into demand forecasting models to improve procurement planning and reduce excess inventory costs.
+
+## 🛠 Tools & Skills Used
+
+- PostgreSQL — Relational database for structured data storage
+- SQL — Data aggregation, filtering, grouping, and sorting
+- pgAdmin 4 — Query execution and database management
+- GitHub — Version control and project documentation
+- Business Data Analysis — Translating raw data into actionable insights
+
+## 📁 Project Structure
+
+/sql  
+- SQL queries used for analysis  
+
+/screenshots  
+- Query result evidence and data validation screenshots  
+
+README.md  
+- Project documentation, insights, and business recommendations  
+
+## 📌 Project Summary
+
+This project demonstrates an end-to-end SQL data analysis workflow including data validation, performance analysis, aggregation reporting, and business recommendation development for retail supply chain optimization.
