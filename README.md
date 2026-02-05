@@ -3,8 +3,9 @@
 ## 📌 Business Objective
 The objective of this project is to analyze retail sales data to identify high-performing and low-performing product lines, understand customer purchasing behavior, and provide data-driven recommendations to support inventory planning and operational decision-making.
 
-## 📊 Dataset Overview
-This project uses a supermarket sales dataset containing transaction-level transaction data including product categories, customer segments, quantities sold, revenue values, and purchase dates.  
+## 📊 Project Overview
+This project demonstrates analytical skills in supply chain operations using SQL. It focuses on inventory patterns, demand trends, and operational insights from a transactional dataset.
+Although the dataset is based on a retail example, the analytical methods used are directly applicable to industries such as mining, manufacturing, and logistics, where data-driven decision-making in inventory, procurement, and operations is critical. 
 The dataset contains 1,000 transaction records across multiple branches and customer types.
 
 ### Data Import Validation
@@ -47,7 +48,7 @@ Sales patterns across product lines and customer segments should be incorporated
 - PostgreSQL — Relational database for structured data storage
 - SQL — Data aggregation, filtering, grouping, and sorting
 - pgAdmin 4 — Query execution and database management
-- GitHub — Version control and project documentation
+- GitHub — Project documentation
 - Business Data Analysis — Translating raw data into actionable insights
 
 ## 📁 Project Structure
@@ -63,4 +64,4 @@ README.md
 
 ## 📌 Project Summary
 
-This project demonstrates an end-to-end SQL data analysis workflow including data validation, performance analysis, aggregation reporting, and business recommendation development for retail supply chain optimization.
+This project demonstrates an end-to-end SQL data analysis workflow including data validation, performance analysis, aggregation reporting, and business recommendation development for retail supply chain optimization. Although this project uses a retail dataset, the analytical approach is directly transferable to mining and other asset-intensive industries. Similar SQL techniques are used to analyse spare parts usage, consumables demand, and inventory turnover in mining operations, where stock availability and lead time variability directly impact production continuity.
